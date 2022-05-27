@@ -255,7 +255,7 @@ button.hero:hover {
     margin-top: 40px;
   }
   .hero-text > h3 {
-    font-size: 48px;
+    font-size: 42px;
   }
   .stat-list {
     text-align: center;
@@ -350,11 +350,15 @@ button.hero:hover {
   .hero-pattern {
     margin-top: 15px;
     position: absolute;
-    left: 185px;
-    width: 50px;
+    left: 155px;
+    width: 45px;
   }
   .hero-pattern > img {
     width: 180px;
+  }
+  .footer {
+    height: 290px;
+    padding: 20px;
   }
 }
 
